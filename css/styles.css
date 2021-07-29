@@ -13,12 +13,6 @@
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
-.header{
-    padding: 70px 30px 70px 30px;
-    margin: 0px auto;
-    background-color: #9575cd;
-    color: floralwhite;
-}
 .address{
     font-size: 80%;
     margin: 0px;
@@ -30,4 +24,10 @@ body{
 }
 .navbar-dark{
     background-color: #512da8;
+}
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background-color: #9575cd;
+    color: floralwhite;
 }
